@@ -1,0 +1,22 @@
+{
+    "author": "Paul Gilchrist",
+    "description": "Ballistics JavaScript Library (for calculating range cards)",
+    "homepage": "https://github.com/PaulGilchrist/pg-ballistics.git",
+    "keywords": [
+        "ballistics",
+        "npm",
+        "pg-ballistics"
+    ],
+    "license": "MIT",
+    "main": "ballistics",
+    "name": "pg-ballistics",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulGilchrist/pg-ballistics.git"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "pg-conversions": "1.0.1",
+        "pg-drag": "1.0.0"
+    }
+}
