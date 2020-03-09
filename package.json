@@ -17,6 +17,6 @@
     "version": "1.0.0",
     "dependencies": {
         "pg-conversions": "1.0.1",
-        "pg-drag": "1.0.0"
+        "pg-drag": "1.0.1"
     }
 }
